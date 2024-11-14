@@ -1,4 +1,4 @@
-# ![Project Logo]([path/to/logo.png](https://media.licdn.com/dms/image/v2/D4E12AQEEzT08o0QxzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678306967729?e=1736985600&v=beta&t=BNbZz7ev_dw-3ekchx7GCI62AmssMD71AqTDIcJyoCY)) Java Fundamentals Project
+# (https://media.licdn.com/dms/image/v2/D4E12AQEEzT08o0QxzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1678306967729?e=1736985600&v=beta&t=BNbZz7ev_dw-3ekchx7GCI62AmssMD71AqTDIcJyoCY) Java Fundamentals Project
 Practice with multiple exercises covering core java fundamentals.
 Overview
 The Java Fundamentals project within the com.company package provides a collection of exercises, examples, and code snippets for mastering core Java programming concepts. This project is organized into modules that cover foundational Java topics such as basic syntax, collections, and object-oriented programming (OOP) principles. It's intended for those looking to strengthen their understanding of Java basics and develop practical skills.
