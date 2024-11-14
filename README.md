@@ -2,10 +2,10 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
- Java Fundamentals Project
-Practice with multiple exercises covering core java fundamentals.
-Overview
-The Java Fundamentals project within the com.company package provides a collection of exercises, examples, and code snippets for mastering core Java programming concepts. This project is organized into modules that cover foundational Java topics such as basic syntax, collections, and object-oriented programming (OOP) principles. It's intended for those looking to strengthen their understanding of Java basics and develop practical skills.
+#**Java Fundamentals Project**
+
+##Overview
+The Java Fundamentals project provides a collection of exercises, examples, and code snippets for mastering core Java programming concepts. This project is organized into modules that cover foundational Java topics such as basic syntax, collections, and object-oriented programming (OOP) principles. It's intended for those looking to strengthen their understanding of Java basics and develop practical skills.
 
 Each module in this project is self-contained and focuses on a specific Java concept, enabling developers to learn and practice at their own pace.
 
@@ -58,3 +58,4 @@ Examples focus on working with collections in a declarative way using lambda exp
 8. Algorithms
 Implements basic algorithms such as sorting (e.g., bubble sort, merge sort) and searching techniques (e.g., linear and binary search).
 Serves as an introduction to algorithmic thinking and problem-solving using Java.
+
