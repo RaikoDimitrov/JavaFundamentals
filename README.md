@@ -11,15 +11,17 @@ Each module in this project is self-contained and focuses on a specific Java con
 ## 📂Project Structure
 The com.company package is organized as follows:
 
-src/com/company
-├── Main.java            # Main entry point for launching various examples
-├── arrays               # Array-related exercises and examples
-├── lists                # Working with List collections and examples
-├── maps                 # Examples demonstrating Map collection usage
-├── sets                 # Working with Set collections and examples
-├── oop                  # Object-oriented programming examples
-├── streams              # Using Java Streams for functional-style operations
-└── algorithms           # Common algorithms and sorting/searching techniques
+| Directory/File       | Description                                                   |
+|----------------------|---------------------------------------------------------------|
+| `Main.java`          | Main entry point for launching various examples               |
+| `arrays/`            | Array-related exercises and examples                          |
+| `lists/`             | Working with List collections and examples                    |
+| `maps/`              | Examples demonstrating Map collection usage                   |
+| `sets/`              | Working with Set collections and examples                     |
+| `oop/`               | Object-oriented programming examples                          |
+| `streams/`           | Using Java Streams for functional-style operations            |
+| `algorithms/`        | Common algorithms and sorting/searching techniques            |
+
 Each subpackage includes Java classes and methods that explore specific concepts, with individual classes representing focused exercises or examples.
 
 ## 📚 Modules and Key Concepts
