@@ -24,7 +24,7 @@ The com.company package is organized as follows:
 
 Each subpackage includes Java classes and methods that explore specific concepts, with individual classes representing focused exercises or examples.
 
-## 📚 Modules and Key Concepts
+## 📚Modules and Key Concepts
 ### 1. Main.java
 Entry point of the project, providing a way to navigate through different examples and modules.
 Often acts as a demo file for testing or running specific methods in the project.
